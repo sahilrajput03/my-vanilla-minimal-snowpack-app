@@ -1,4 +1,6 @@
 /* Add CSS styles here! */
 body {
   font-family: sans-serif;
+  height: 200vh;
+  background: salmon;
 }

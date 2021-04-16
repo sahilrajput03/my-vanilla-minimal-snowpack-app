@@ -1,4 +1,11 @@
-# New Project
+# This project is created with below command
+
+```
+npx create-snowpack-app my-vanilla-minimal-snowpack-app --template @snowpack/app-template-minimal
+```
+~ sahil
+
+## New Project
 
 > ✨ Bootstrapped with Create Snowpack App (CSA).
 
